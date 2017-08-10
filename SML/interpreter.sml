@@ -1,9 +1,3 @@
-(* CSE305 Spring 2016
- * A possible solution to HW2, expressed in Standard ML
- * Author: Carl Alphonce
- * Modified: Lu Meng
- *)
-
 (****************************************************************************
  TYPE DEFINITIONS 
  ****************************************************************************)
